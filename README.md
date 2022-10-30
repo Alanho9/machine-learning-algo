@@ -1,9 +1,9 @@
 This is a my owned machine learning model. The machine learning models will include
 
-Linear Regression
-logistics Regression
-Multiple linear regression 
-Neural network
+-Linear Regression
+-logistics Regression
+-Multiple linear regression 
+-Neural network
 
 More and more ML models will be continuously updated and added.
 
